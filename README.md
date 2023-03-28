@@ -13,9 +13,9 @@
 
 <span id="sobre">
 
-### :mag_right: *missão*:
-### 🔎visão: -->
- valores:
+### 🔎 missão:
+### 🔎visão: 
+ ### 🔎valores:
  
  <p>
   Avaliação de cadeias produtivas de Petróleo, Óleo e Gás de municípios da RMVALE por meio de coleta, tratamento e análise de dados.
