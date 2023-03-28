@@ -13,8 +13,8 @@
 
 <span id="sobre">
 
-### :mag_right: missão:
- visão:
+### :mag_right: *missão*:
+### 🔎visão: -->
  valores:
  
  <p>
