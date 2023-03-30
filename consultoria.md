@@ -52,10 +52,11 @@ COLETA E PADRONIZAÇÃO DE BASE DE DADOS. |
  <span id="techtools">
  
  ### :hammer_and_wrench: Ferramentas e Tecnologias
- - GitHub
- - Conceito de Posicionamento Lógico: R.H. BALLOU
+ - GITHUB
+ - PYTHON
  - 5W2H 
- - Microsoft Power Platform
+ - JIRA SOFTWARE
+ - COLAB
   
  <a href="#inicio">[Voltar ao início]</a>
  
