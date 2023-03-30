@@ -20,8 +20,7 @@
  ### 🔎valores:
  comprimento,qualidade,inovação,respeito,trabalho em equipe.
  
- <p>
-  Avaliação de cadeias produtivas de Petróleo, Óleo e Gás de municípios da RMVALE por meio de coleta, tratamento e análise de dados.
+ <p> Estudos estatístico do transporte ferroviario de carga
  </p>
 
 <a href="#inicio">[Voltar ao início]</a>
