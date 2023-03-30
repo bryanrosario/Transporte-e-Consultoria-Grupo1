@@ -13,9 +13,9 @@
 
 <span id="sobre">
 
-### 🔎 missão:
-### 🔎visão: 
- ### 🔎valores:
+### 🔎 missão:Nossa missão é fornecer soluções logísticas eficientes e de alta qualidade para atender às necessidades de nossos clientes, otimizando processos e garantindo a satisfação dos nossos colaboradores e parceiros.
+### 🔎visão:Ser uma referência no mercado de logística, reconhecida pela excelência em serviços, inovação em processos e comprometimento com o sucesso dos nossos clientes.  
+ ### 🔎valores:comprimento,qualidade,inovação,respeito,trabalho em equipe.
  
  <p>
   Avaliação de cadeias produtivas de Petróleo, Óleo e Gás de municípios da RMVALE por meio de coleta, tratamento e análise de dados.
