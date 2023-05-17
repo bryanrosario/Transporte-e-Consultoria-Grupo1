@@ -78,7 +78,7 @@ COLETA E PADRONIZAÇÃO DE BASE DE DADOS. |
  
 Sprint ID | Data | Tag | Status
 ----------|------|-----|-------
-#1 | 13.03.23 - 03.04.23 | <a href="#">Aqui</a> | 
+#1 | 13.03.23 - 03.04.23 | <a href="https://fatecsjc-prd.azurewebsites.net/">Aqui</a> | 
 #2 | 24.04.23 - 15.05.23 | <a href="#">Aqui</a> | 
 #3 | 15.05.23 - 05.06.23 | <a href="#">Aqui</a> |  
 #4 | 13.06.23 - 14.06.23 | <a href="#">Aqui</a> |  
@@ -87,8 +87,62 @@ Sprint ID | Data | Tag | Status
 
 <span id="equipe">
 
-### :busts_in_silhouette: Equipe:
-Scrum Master | Product Owner | Dev | Dev | Dev |
- -------------|---------------|-----|-----|-----|
- [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub><br><sub>](https://github.com/anaelisac)</sub><br><a href="https://www.linkedin.com/in/ana-elisa-costa-a9a32122" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub> | [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane R. S. Vieira</sub><br><sub>](https://github.com/caylaneraissa)</sub><br><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub>  | [<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub><br><sub>](https://github.com/bryanrosario)</sub><br><a href="https://www.linkedin.com/in/bryan-ros%C3%A1rio-a05a6524b" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub>  | [<img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width=115><br><sub>Camila A. da Costa</sub><br><sub>](https://github.com/camilacosta29)</sub><br><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub> | [<img src="https://github.com/anaelisac/Imagens/blob/main/juan%20temp.jpg" width=115><br><sub>Juan R. Leme Faria</sub><br><sub>](https://github.com/juanfaria01)</sub><br><a href="https://www.linkedin.com/in/juan-faria-77b7a8237" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub>
-<a href="#inicio">[Voltar ao início]</a>
+<h1 ><samp>EQUIPE</samp></h1>
+
+<table align="">
+  <tr>
+    <th><b>Nome</b></th>
+    <th><b>Função</b></th>
+    <th><b>Github</b></th>
+    <th><b>Linked-In</b></th>
+  </tr>
+   <tr>
+    <td></td>
+    <td>Desenvolvedor</td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>Desenvolvedor</td>
+    <td><a href="">Github</a></td>
+    <td><a href=""></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>Scrum Master</td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Desenvolvedor</td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>Desenvolvedor</td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Desenvolvedor</td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Product Owner</td>
+    <td><a href="">Github</a></td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Desenvolvedor</td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
+
+</table>
