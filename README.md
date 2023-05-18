@@ -108,7 +108,7 @@ Sprint ID | Data | Tag | Status
     <td><b><img src="https://avatars.githubusercontent.com/u/113191269?v=4" width="115px"></th>
     <td>Bryan Moura Rosário</td>
     <td>Product Owner</td>
-    <td><a href="">Github</a></td>
+    <td><a href="https://github.com/bryanrosario">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
@@ -122,14 +122,14 @@ Sprint ID | Data | Tag | Status
    <td><b><img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width="115px"></th> 
    <td>Caylane Raissa Santos Vieira</td>
     <td>Scrum Team</td>
-    <td><a href="">Github</a></td>
+    <td><a href="https://github.com/caylaneraissa">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
     <td><b><img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width="115px"></th>
      <td>Camila Aparecida da Costa</td>
     <td>Scrum Team</td>
-    <td><a href="">Github</a></td>
+    <td><a href="https://github.com/camilacosta29">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
