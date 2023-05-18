@@ -98,49 +98,49 @@ Sprint ID | Data | Tag | Status
   </tr>
    <tr>
     <td></td>
-    <td>Scrum Master</td Douglas Martins Pereira>
+    <td>Scrum Master</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
    <tr>
     <td></td>
-    <td>Desenvolvedor</td>
-    <td><a href="">Github</a></td>
-    <td><a href=""></a></td>
-  </tr>
-    <tr>
-    <td></td>
-    <td>Scrum Master< Doulgas Martins Pereira/td>
-    <td><a href="">Github</a></td>
-    <td><a href="">Linked-In</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Desenvolvedor</td>
-    <td><a href="">Github</a></td>
-    <td><a href="">Linked-In</a></td>
-  </tr>
-    <tr>
-    <td></td>
-    <td>Desenvolvedor</td>
-    <td><a href="">Github</a></td>
-    <td><a href="">Linked-In</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Desenvolvedor</td>
-    <td><a href="">Github</a></td>
-    <td><a href="">Linked-In</a></td>
-  </tr>
-  <tr>
-    <td></td>
     <td>Product Owner</td>
     <td><a href="">Github</a></td>
     <td><a href=""></a></td>
   </tr>
+    <tr>
+    <td></td>
+    <td>Scrum Team< /td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
   <tr>
     <td></td>
-    <td>Desenvolvedor</td>
+    <td>Scrum Team</td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>Scrum Team</td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Scrum Team</td>
+    <td><a href="">Github</a></td>
+    <td><a href="">Linked-In</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Scrum Team</td>
+    <td><a href="">Github</a></td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
