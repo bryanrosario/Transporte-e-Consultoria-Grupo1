@@ -98,14 +98,14 @@ Sprint ID | Data | Tag | Status
     <th><b>Linked-In</b></th>
   </tr>
    <tr>
-    <td><b></b></th>
+    <td><b><img src=></th>
     <td>Douglas Martins Pereira</td>
     <td>Scrum Master</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
    <tr>
-    <td><b></b></th>
+    <td><b><img src=></th>
     <td>Bryan Moura Rosário</td>
     <td>Product Owner</td>
     <td><a href="">Github</a></td>
@@ -119,28 +119,28 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-   <td><b></b></th> 
+   <td><b><img src=></th> 
    <td>Caylane Raissa Santos Vieira</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-    <td><b></b></th>
+    <td><b><img src=></th>
      <td>Camila Aparecida da Costa</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-   <td><b></b></th> 
+   <td><b><img src=></th> 
    <td>Ana Carolina Ventura</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-   <td><b></b></th> 
+   <td><b><img src=></th> 
    <td>Everton Pereira Ferreira Junior</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
