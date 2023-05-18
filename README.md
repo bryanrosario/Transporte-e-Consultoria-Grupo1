@@ -105,7 +105,7 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
    <tr>
-    <td><b><img src=></th>
+    <td><b><img src="https://avatars.githubusercontent.com/u/113191269?v=4" width="115px"></th>
     <td>Bryan Moura Rosário</td>
     <td>Product Owner</td>
     <td><a href="">Github</a></td>
