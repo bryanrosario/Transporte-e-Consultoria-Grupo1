@@ -106,7 +106,7 @@ Sprint ID | Data | Tag | Status
     <td></td>
     <td>Product Owner</td>
     <td><a href="">Github</a></td>
-    <td><a href=""></a></td>
+    <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
     <td></td>
