@@ -78,10 +78,10 @@ COLETA E PADRONIZAÇÃO DE BASE DE DADOS. | ✔️
  
 Sprint ID | Data | Tag | Status
 ----------|------|-----|-------
-#1 | 13.03.23 - 03.04.23 | <a href="https://fatecsjc-prd.azurewebsites.net/">Aqui</a> | 
-#2 | 24.04.23 - 15.05.23 | <a href="#">Aqui</a> | 
-#3 | 15.05.23 - 05.06.23 | <a href="#">Aqui</a> |  
-#4 | 13.06.23 - 14.06.23 | <a href="#">Aqui</a> |  
+#1 | 13.03.23 - 03.04.23 | <a href="https://fatecsjc-prd.azurewebsites.net/">Aqui</a> | ✔️
+#2 | 24.04.23 - 15.05.23 | <a href="#">Aqui</a> | ✔️
+#3 | 15.05.23 - 05.06.23 | <a href="#">Aqui</a> | ✔️
+#4 | 13.06.23 - 14.06.23 | <a href="#">Aqui</a> | ✔️
 
 <a href="#inicio">[Voltar ao início]</a>
 
