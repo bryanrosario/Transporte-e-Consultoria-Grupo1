@@ -109,6 +109,7 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
+     <img src="https://web.whatsapp.com/46bb7617-e304-4556-87ac-0d2d328d88fe" width="30px" /> 
      <td>Alexandre Michiles da Silva</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
