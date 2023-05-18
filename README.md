@@ -126,7 +126,7 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-    <td><b><img src=></th>
+    <td><b><img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width="115px"></th>
      <td>Camila Aparecida da Costa</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
