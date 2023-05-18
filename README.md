@@ -102,7 +102,7 @@ Sprint ID | Data | Tag | Status
     <td>Douglas Martins Pereira</td>
     <td>Scrum Master</td>
     <td><a href="">Github</a></td>
-    <td><a href="">Linked-In</a>"https://www.linkedin.com/in/douglas-martins-1a573a25a"</td>
+    <td><a href="">[Linked-In](https://www.linkedin.com/in/douglas-martins-1a573a25a)</a></td>
   </tr>
    <tr>
     <td><b><img src="https://avatars.githubusercontent.com/u/113191269?v=4" width="115px"></th>
