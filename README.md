@@ -98,7 +98,7 @@ Sprint ID | Data | Tag | Status
   </tr>
    <tr>
     <td></td>
-    <td>Desenvolvedor</td>
+    <td>Scrum Master</td Douglas Martins Pereira>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
