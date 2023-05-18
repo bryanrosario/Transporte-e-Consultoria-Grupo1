@@ -119,7 +119,7 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-   <td><b><img src=></th> 
+   <td><b><img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width="115px"></th> 
    <td>Caylane Raissa Santos Vieira</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
