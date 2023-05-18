@@ -101,7 +101,7 @@ Sprint ID | Data | Tag | Status
     <td><b><img src="https://avatars.githubusercontent.com/u/113192231?v=4" width="115px"></th>
     <td>Douglas Martins Pereira</td>
     <td>Scrum Master</td>
-    <td><a href="">Github</a>Ana Elisa Costa</sub><br><sub>](https://github.com/anaelisac)</td>
+    <td><a href="">Github</a></td>
    <td><a href="">Linked-In</a></td>
   </tr>
    <tr>
