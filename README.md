@@ -98,7 +98,7 @@ Sprint ID | Data | Tag | Status
     <th><b>Linked-In</b></th>
   </tr>
    <tr>
-    <td><b><img src="blob:https://web.whatsapp.com/46616290-845a-4dd1-b5dd-09a788576341" width="115px"></th>
+    <td><b><img src="" width="115px"></th>
     <td>Douglas Martins Pereira</td>
     <td>Scrum Master</td>
     <td><a href="">Github</a></td>
