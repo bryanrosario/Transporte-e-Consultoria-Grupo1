@@ -110,7 +110,7 @@ Sprint ID | Data | Tag | Status
   </tr>
     <tr>
     <td></td>
-    <td>Scrum Master</td>
+    <td>Scrum Master< Doulgas Martins Pereira/td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
