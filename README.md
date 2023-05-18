@@ -91,50 +91,57 @@ Sprint ID | Data | Tag | Status
 
 <table align="">
   <tr>
-    <th><b>Nome</b></th>
+   <th><b></b></th> 
+   <th><b>Nome</b></th>
     <th><b>Função</b></th>
     <th><b>Github</b></th>
     <th><b>Linked-In</b></th>
   </tr>
    <tr>
+    <td><b></b></th>
     <td>Douglas Martins Pereira</td>
     <td>Scrum Master</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
    <tr>
+    <td><b></b></th>
     <td>Bryan Moura Rosário</td>
     <td>Product Owner</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-     <img src="https://web.whatsapp.com/46bb7617-e304-4556-87ac-0d2d328d88fe" width="30px" /> 
-     <td>Alexandre Michiles da Silva</td>
+    <td><b></b></th> 
+    <td>Alexandre Michiles da Silva</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-    <td>Caylane Raissa Santos Vieira</td>
+   <td><b></b></th> 
+   <td>Caylane Raissa Santos Vieira</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-    <td>Camila Aparecida da Costa</td>
+    <td><b></b></th>
+     <td>Camila Aparecida da Costa</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-    <td>Ana Carolina Ventura</td>
+   <td><b></b></th> 
+   <td>Ana Carolina Ventura</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-    <td>Everton Pereira Ferreira Junior</td>
+   <td><b></b></th> 
+   <td>Everton Pereira Ferreira Junior</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
