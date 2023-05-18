@@ -91,7 +91,6 @@ Sprint ID | Data | Tag | Status
 
 <table align="">
   <tr>
-   <th><b>Foto</b></th>
     <th><b>Nome</b></th>
     <th><b>Função</b></th>
     <th><b>Github</b></th>
@@ -110,7 +109,8 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-    <td>Alexandre Michiles da Silva</td>
+    <img src="blob:https://web.whatsapp.com/46bb7617-e304-4556-87ac-0d2d328d88fe>
+     <td>Alexandre Michiles da Silva</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
