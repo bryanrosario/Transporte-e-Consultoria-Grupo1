@@ -134,13 +134,6 @@ Sprint ID | Data | Tag | Status
   </tr>
   <tr>
    <td><b><img src=></th> 
-   <td>Ana Carolina Ventura</td>
-    <td>Scrum Team</td>
-    <td><a href="">Github</a></td>
-    <td><a href="">Linked-In</a></td>
-  </tr>
-  <tr>
-   <td><b><img src=></th> 
    <td>Everton Pereira Ferreira Junior</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
