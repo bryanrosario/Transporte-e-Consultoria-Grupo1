@@ -97,7 +97,7 @@ Sprint ID | Data | Tag | Status
     <th><b>Linked-In</b></th>
   </tr>
    <tr>
-    <td></td>
+    <td>Douglas Martins Pereira</td>
     <td>Scrum Master</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
