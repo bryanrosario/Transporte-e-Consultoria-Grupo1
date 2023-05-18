@@ -18,7 +18,7 @@
 ### 🔎visão: 
  Ser uma referência no mercado de logística, reconhecida pela excelência em serviços, inovação em processos e comprometimento com o sucesso dos nossos clientes.  
  ### 🔎valores:
- comprimento,qualidade,inovação,respeito,trabalho em equipe.
+ Comprimento,qualidade,inovação,respeito,trabalho em equipe.
  
  </p>
 
@@ -32,11 +32,11 @@
 
 Requisitos |  Status 
 -----------|----------
-COLETA E PADRONIZAÇÃO DE BASE DE DADOS. | 
- DESENVOLVIMENTO DE ESTUDO ESTATÍSTICO AVANÇADO COM DADOS COLETADOS.|
- MODELAR PROJEÇÃO DE CARGAS FERROVIÁRIAS.|
-  O DOCUMENTAÇÃO NO GITHUB E JIRA SOFTWARE .|
-  DOCUMENTAÇÃO DO PROJETO DE FORMA CLARA E DE FÁCIL ACESSO.|
+COLETA E PADRONIZAÇÃO DE BASE DE DADOS. | ✔️
+ DESENVOLVIMENTO DE ESTUDO ESTATÍSTICO AVANÇADO COM DADOS COLETADOS.|✔️
+ MODELAR PROJEÇÃO DE CARGAS FERROVIÁRIAS.|✔️
+  O DOCUMENTAÇÃO NO GITHUB E JIRA SOFTWARE .|✔️
+  DOCUMENTAÇÃO DO PROJETO DE FORMA CLARA E DE FÁCIL ACESSO.|✔️
   
 
   
@@ -65,9 +65,9 @@ COLETA E PADRONIZAÇÃO DE BASE DE DADOS. |
  
 ### :bar_chart: Estrutura digital do projeto
  
-- **Camada de dados:** responsável pelo armazenamento dos dados coletados, essa camada aloca todas as informações em tabelas relacionais na nuvem provisionada pela Microsoft;
-- **Camada de aplicação:** nessa camada se encontram todas as aplicações que interagem com o usuário e
-- **Camada de usuário:** responsável pela interação do usuário com o sistema, por meio de uma interface gráfica que permita editar e consultar as informações contidas na base de dados.
+- **Camada de dados:** Responsável pelo armazenamento dos dados coletados, essa camada aloca todas as informações em tabelas relacionais na nuvem provisionada pela Microsoft;
+- **Camada de aplicação:** Nessa camada se encontram todas as aplicações que interagem com o usuário e
+- **Camada de usuário:** Responsável pela interação do usuário com o sistema, por meio de uma interface gráfica que permita editar e consultar as informações contidas na base de dados.
 
 
 <a href="#inicio">[Voltar ao início]</a>
