@@ -110,7 +110,7 @@ Sprint ID | Data | Tag | Status
   </tr>
     <tr>
     <td></td>
-    <td>Scrum Team< /td>
+    <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
