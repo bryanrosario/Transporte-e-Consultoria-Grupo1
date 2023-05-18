@@ -91,6 +91,7 @@ Sprint ID | Data | Tag | Status
 
 <table align="">
   <tr>
+   <th><b>Foto</b></th>
     <th><b>Nome</b></th>
     <th><b>Função</b></th>
     <th><b>Github</b></th>
