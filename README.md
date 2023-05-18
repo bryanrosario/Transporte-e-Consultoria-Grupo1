@@ -112,7 +112,7 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-    <td><b><img src="https://teams.microsoft.com/api/mt/part/amer-02/beta/users/8:orgid:978146fc-72fc-4dc4-9966-196e5980d3f1/profilepicturev2?displayname=ALEXANDRE%20MICHILES%20DA%20SILVA&size=HR96x96" width="115px"></th> 
+    <td><b><img src="" width="115px"></th> 
     <td>Alexandre Michiles da Silva</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
