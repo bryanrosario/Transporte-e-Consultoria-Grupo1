@@ -103,37 +103,37 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
    <tr>
-    <td></td>
+    <td>Bryan Moura Rosário</td>
     <td>Product Owner</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-    <td></td>
+    <td>Alexandre Michiles da Silva</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Caylane Raissa Santos Vieira</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-    <td></td>
+    <td>Camila Aparecida da Costa</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Ana Carolina Ventura</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Everton Pereira Ferreira Junior</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
     <td><a href="">Linked-In</a></td>
