@@ -109,10 +109,10 @@ Sprint ID | Data | Tag | Status
     <td>Bryan Moura Rosário</td>
     <td>Product Owner</td>
     <td><a href="https://github.com/bryanrosario">Github</a></td>
-    <td><a href="">Linked-In</a></td>
+    <td><a href="https://www.linkedin.com/in/bryan-ros%C3%A1rio-a05a6524b/">Linked-In</a></td>
   </tr>
     <tr>
-    <td><b><img src="![7738a24d-4526-4f5e-9464-7ec5fdc7e130](https://github.com/bryanrosario/Transporte-e-Consultoria-Grupo1/assets/113191269/775b7009-b072-4c2f-8a98-3f0248c359c6)" width="115px"></th> 
+    <td><b><img src="https://github.com/bryanrosario/Transporte-e-Consultoria-Grupo1/assets/113191269/c551f530-a943-40eb-bc6f-1da19d739b6f" width="115px"></th> 
     <td>Alexandre Michiles da Silva</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
@@ -123,14 +123,14 @@ Sprint ID | Data | Tag | Status
    <td>Caylane Raissa Santos Vieira</td>
     <td>Scrum Team</td>
     <td><a href="https://github.com/caylaneraissa">Github</a></td>
-    <td><a href="">Linked-In</a></td>
+    <td><a href="https://www.linkedin.com/in/caylane-raissa-6415b8278/">Linked-In</a></td>
   </tr>
     <tr>
     <td><b><img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width="115px"></th>
      <td>Camila Aparecida da Costa</td>
     <td>Scrum Team</td>
     <td><a href="https://github.com/camilacosta29">Github</a></td>
-    <td><a href="">Linked-In</a></td>
+    <td><a href="https://www.linkedin.com/mwlite/in/camila-costa-686621203">Linked-In</a></td>
   </tr>
   <tr>
    <td><b><img src=></th> 
