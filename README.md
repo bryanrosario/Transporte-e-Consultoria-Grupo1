@@ -102,7 +102,7 @@ Sprint ID | Data | Tag | Status
     <td>Douglas Martins Pereira</td>
     <td>Scrum Master</td>
     <td><a href="https://github.com/DouglasMartinscs">Github</a></td>
-   <td><a href="">Linked-In</a></td>
+   <td><a href="https://www.linkedin.com/in/douglas-martins-1a573a25a">Linked-In</a></td>
   </tr>
    <tr>
     <td><b><img src="https://avatars.githubusercontent.com/u/113191269?v=4" width="115px"></th>
@@ -112,7 +112,7 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-    <td><b><img src="[7738a24d-4526-4f5e-9464-7ec5fdc7e130](https://github.com/bryanrosario/Transporte-e-Consultoria-Grupo1/assets/113191269/852da05c-5a5e-4d6b-ab9e-dc838617f4ed)" width="115px"></th> 
+    <td><b><img src="" width="115px"></th> 
     <td>Alexandre Michiles da Silva</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
