@@ -112,7 +112,7 @@ Sprint ID | Data | Tag | Status
     <td><a href="">Linked-In</a></td>
   </tr>
     <tr>
-    <td><b><img src="" width="115px"></th> 
+    <td><b><img src="![7738a24d-4526-4f5e-9464-7ec5fdc7e130](https://github.com/bryanrosario/Transporte-e-Consultoria-Grupo1/assets/113191269/775b7009-b072-4c2f-8a98-3f0248c359c6)" width="115px"></th> 
     <td>Alexandre Michiles da Silva</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
