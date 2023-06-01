@@ -78,7 +78,7 @@ COLETA E PADRONIZAÇÃO DE BASE DE DADOS. | ✔️
  
 Sprint ID | Data | Tag | Status
 ----------|------|-----|-------
-#1 | 13.03.23 - 03.04.23 | <a href="https://fatecspgov-my.sharepoint.com/:b:/g/personal/bryan_rosario_fatec_sp_gov_br/Ec7rNqBd1odFk09B1El82yYBWzLY_ODHKJBfQE56m-MKtA?email=caylane.vieira%40fatec.sp.gov.br&e=kXt2RH"Aqui</a> | ✔️
+#1 | 13.03.23 - 03.04.23 | <a href="https://fatecspgov-my.sharepoint.com/:b:/g/personal/bryan_rosario_fatec_sp_gov_br/Ec7rNqBd1odFk09B1El82yYBWzLY_ODHKJBfQE56m-MKtA?email=caylane.vieira%40fatec.sp.gov.br&e=kXt2RH">Aqui</a> | ✔️
 #2 | 03.04.23 - 12.05.23 | <a href="https://app.powerbi.com/groups/me/reports/6273b7df-19ca-4f66-8430-5a78b6ec907a/ReportSection?experience=power-bi">Aqui</a> | ✔️
 #3 | 12.05.23 - 01.06.23 | <a href="https://fatecspgov-my.sharepoint.com/:b:/g/personal/bryan_rosario_fatec_sp_gov_br/EYZX_6v8CipCleVROxd4vIUBdnnvvFh5W8r4Z-o-uibM0w?email=caylane.vieira%40fatec.sp.gov.br&e=ksJD7j">Aqui</a> | ✔️
 
