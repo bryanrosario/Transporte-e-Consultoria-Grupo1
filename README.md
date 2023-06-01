@@ -133,7 +133,7 @@ Sprint ID | Data | Tag | Status
     <td><a href="https://www.linkedin.com/mwlite/in/camila-costa-686621203">Linked-In</a></td>
   </tr>
   <tr>
-   <td><b><img src=></th> 
+   <td><b><img src="(https://github.com/bryanrosario/Transporte-e-Consultoria-Grupo1/assets/113191269/3e7326ce-ca94-4ce1-9d45-ec89a718dbd1)" width="115px"></th> 
    <td>Everton Pereira Ferreira Junior</td>
     <td>Scrum Team</td>
     <td><a href="">Github</a></td>
