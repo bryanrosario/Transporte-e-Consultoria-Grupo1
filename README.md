@@ -12,7 +12,10 @@
 </p>
 
 <span id="sobre">
-<td><b><img src="https://github.com/bryanrosario/Transporte-e-Consultoria-Grupo1/assets/113191269/93a1459a-9f5e-462f-8eeb-81022a6fdc73" width="115px"></th> 
+
+
+ <div aling="center">
+<img src="https://github.com/bryanrosario/Transporte-e-Consultoria-Grupo1/assets/113191269/b7c5da1d-e716-4023-903c-a1b95154aa78 width="100px" /></div> 
 
  ### 🔎 missão: 
  Nossa missão é fornecer soluções logísticas eficientes e de alta qualidade para atender às necessidades de nossos clientes, otimizando processos e garantindo a satisfação dos nossos colaboradores e parceiros.
